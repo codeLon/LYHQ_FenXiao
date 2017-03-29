@@ -1,0 +1,42 @@
+2016-05-08 23:04:45.600:WebApplication指定日期完毕。RecDate：2016-04-22  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:45.703:WebApplication指定日期完毕。RecDate：2016-04-23  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:45.810:WebApplication指定日期完毕。RecDate：2016-04-24  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:45.901:WebApplication指定日期完毕。RecDate：2016-04-25  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.041:WebApplication指定日期完毕。RecDate：2016-04-26  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.203:WebApplication指定日期完毕。RecDate：2016-04-27  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.266:WebApplication指定日期完毕。RecDate：2016-04-28  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.370:WebApplication指定日期完毕。RecDate：2016-04-29  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.449:WebApplication指定日期完毕。RecDate：2016-04-30  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.618:WebApplication指定日期完毕。RecDate：2016-05-01  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.852:WebApplication指定日期完毕。RecDate：2016-05-02  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:46.942:WebApplication指定日期完毕。RecDate：2016-05-03  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:47.565:WebApplication指定日期完毕。RecDate：2016-05-04  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:47.660:WebApplication指定日期完毕。RecDate：2016-05-05  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:47.740:WebApplication指定日期完毕。RecDate：2016-05-06  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:04:47.816:WebApplication指定日期完毕。RecDate：2016-05-07  结果：为过程或函数 sp_vshop_Statistics_Daily 指定了过多的参数。
+---------------
+2016-05-08 23:14:20.900:WebApplication指定日期完毕。RecDate：2016-05-04  结果：核算成功。
+---------------
+2016-05-08 23:14:20.912:WebApplication指定日期完毕。RecDate：2016-05-05  结果：核算成功。
+---------------
+2016-05-08 23:14:20.954:WebApplication指定日期完毕。RecDate：2016-05-06  结果：核算成功。
+---------------
+2016-05-08 23:14:21.041:WebApplication指定日期完毕。RecDate：2016-05-07  结果：核算成功。
+---------------
+2016-05-08 23:49:09.478:WebApplication指定日期完毕。RecDate：2016-05-07  结果：
+---------------
